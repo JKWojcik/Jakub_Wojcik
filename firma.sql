@@ -128,22 +128,22 @@ VALUES(1, 'Jan', 'Nowak', 'ul. Donimirskiego Antoniego 86
 81-273 Gdynia', '896236122');
 INSERT INTO public.pracownicy
 (id_pracownika, imie, nazwisko, adres, telefon)
-VALUES(2, 'Jacek', 'Bak', 'ul. Jaœminowa 127
+VALUES(2, 'Jacek', 'Bak', 'ul. Jasminowa 127
 02-717 Warszawa', '829411591');
 INSERT INTO public.pracownicy
 (id_pracownika, imie, nazwisko, adres, telefon)
-VALUES(3, 'Marek', 'Was', 'Al. Jana Paw³a II 41
+VALUES(3, 'Marek', 'Was', 'Al. Jana Pawla II 41
 00-145 Warszawa', NULL);
 INSERT INTO public.pracownicy
 (id_pracownika, imie, nazwisko, adres, telefon)
 VALUES(4, 'Adam', 'Kosowski', NULL, '979004691');
 INSERT INTO public.pracownicy
 (id_pracownika, imie, nazwisko, adres, telefon)
-VALUES(5, 'Jakub', 'Rataj', 'ul. Ogiñskiego Micha³a 137
-92-608 £ódŸ', '594128830');
+VALUES(5, 'Jakub', 'Rataj', 'ul. Oginskiego Michala 137
+92-608 Lodz', '594128830');
 INSERT INTO public.pracownicy
 (id_pracownika, imie, nazwisko, adres, telefon)
-VALUES(6, 'Natalia', 'Milos', 'ul. £ukasiñskiego Waleriana 81
+VALUES(6, 'Natalia', 'Milos', 'ul. Lukasinskiego Waleriana 81
 20-454 Lublin', NULL);
 INSERT INTO public.pracownicy
 (id_pracownika, imie, nazwisko, adres, telefon)
@@ -154,12 +154,12 @@ VALUES(8, 'Mariusz', 'Gudzianowski', 'ul. Niska 117
 81-646 Gdynia', '936836205');
 INSERT INTO public.pracownicy
 (id_pracownika, imie, nazwisko, adres, telefon)
-VALUES(9, 'Iga', 'Heglarz', 'ul. Podgórska 96
-31-061 Kraków', '512035818');
+VALUES(9, 'Iga', 'Heglarz', 'ul. Podgorska 96
+31-061 Krakow', '512035818');
 INSERT INTO public.pracownicy
 (id_pracownika, imie, nazwisko, adres, telefon)
-VALUES(10, 'Aleksandra', 'Bukowska', 'ul. Wid³akowa 121
-54-530 Wroc³aw', '673976457
+VALUES(10, 'Aleksandra', 'Bukowska', 'ul. Widlakowa 121
+54-530 Wroclaw', '673976457
 ');
 
 
