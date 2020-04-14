@@ -1,0 +1,23 @@
+Zadanie 2
+
+Zależności funkcyjne:
+
+id_produktu -> nazwa_produktu, cena_produktu, VAT
+id_klienta -> nazwa_klienta, data_zamowienia
+cena_produktu -> suma_netto, suma_brutto
+data_zamowienia -> ilość, nazwa_produktu
+
+Klucze kandydujące:
+ID jako id_klienta + data_zamówienia, ponieważ klienta składa tylko i wyłącznie jedno zamówienie danego dnia = uniwersalnie
+
+Zadanie 3
+
+Zależności funkcyjne:
+
+id_pomieszczenia -> numer_pomieszczenia, id_budynku
+id_budynku -> kod_pocztowy
+kod_pocztowy -> miasto, ulice
+numer_pomieszczenia -> powierzchnia, liczba_drzwi, liczba_okien
+
+Klucze kandydujące:
+ID jako id_budynku + numer_pomieszczenia
